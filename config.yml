@@ -1,4 +1,4 @@
-baseURL: "https://david-balut.github.io/"
+baseURL: "https://davidbalut.github.io/"
 title: David Bałut
 theme: PaperMod
 
@@ -18,9 +18,12 @@ menu:
         - name: News
           url: news/
           weight: 2
+        - name: Talks
+          url: talks/
+          weight: 3
         - name: Fun
           url: fun/
-          weight: 3
+          weight: 4
 
 params:
     description: "Personal website of David Bałut, physics student at the University of Illinois Urbana-Champaign interested in many-body physics."
@@ -58,6 +61,8 @@ params:
               url: papers/
             - name: News
               url: news/
+            - name: Talks
+              url: talks/
             - name: Fun
               url: fun/
 
