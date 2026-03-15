@@ -1,4 +1,4 @@
-baseURL: "https://davidbalut.github.io/"
+baseURL: "https://david-balut.github.io/"
 title: David Bałut
 theme: PaperMod
 
@@ -71,6 +71,8 @@ params:
           url: mailto:davidbalut@gmail.com
         - name: Google Scholar
           url: https://scholar.google.com/citations?hl=en&user=3pZLDeAAAAAJ
+        - name: CV
+          url: cv/cv.pdf
 
     assets:
         disableScrollBarStyle: true
