@@ -52,7 +52,7 @@ params:
     profileMode:
           enabled: true
           title: David Bałut
-          subtitle: "I am a physics undergrad at the University of Illinois Urbana-Champaign, working with the groups of Peter Abbamonte and Barry Bradlyn. I am generally interested in condensed matter theory and many-body theory. I will be starting an MPhil in Physics at Cambridge in the fall, working with Professor Claudio Castelnovo."
+          subtitle: "I am a physics undergrad at the University of Illinois Urbana-Champaign, working with the groups of Peter Abbamonte and Barry Bradlyn. I am generally interested in condensed matter theory and many-body theory. I will be starting an MPhil in Physics at Cambridge in the fall, working with Professor Claudio Castelnovo. Following Cambridge, I will be joining UC Berkeley as a Chancellor's Fellow to pursue a PhD in condensed matter theory."
           imageUrl: "profile.png"
           imageWidth: 160
           imageHeight: 160
